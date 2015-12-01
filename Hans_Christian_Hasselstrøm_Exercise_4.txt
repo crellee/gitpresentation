@@ -18,4 +18,4 @@ Exercise 4
 0110 0100		d
 0111 0011		s
 
-We are the nerds
+We are the nerds YAH
